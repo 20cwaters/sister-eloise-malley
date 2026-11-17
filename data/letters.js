@@ -5,6 +5,51 @@
 
 window.LETTERS = [
   {
+    id: "2026-08-24-grain-and-bread",
+    title: "Grain and Bread",
+    date: "2026-08-24",
+    location: "Mormon Battalion Historic Site",
+    week: 8,
+    albumUrl: "https://photos.app.goo.gl/UwjqVNY3tZJqQmem7",
+    body: [
+      { type: "p", text: "I know you've all been wondering \"what is Sister Malley up to?\" So I'll tell you! I've been trying to acquire lore but I do the same thing everyday so its been difficult 🤧" },
+      { type: "p", text: "But here is the last 3 weeks!" },
+      { type: "p", text: "Transfers:" },
+      { type: "p", text: "Successfully done with my first transfer at the battalion!💃" },
+      { type: "p", text: "How time flies when you're having fun. Already mourning the loss of Big T. We had so much fun together, President Almeida said he always saw us laughing AND he felt the spirit around us #two4one" },
+      { type: "p", text: "But I'm gonna be with Sister Gunnel now! She's one of the two Mandarin sisters (soon to be 3 with the new transfer on Wednesday,) and she's from my transfer! I've been told she doesn't know my name so we're starting from day 1!" },
+      { type: "p", text: "Also new pday on Wednesday get hyped" },
+      { type: "p", text: "Highlights 🗣🗣" },
+      { type: "p", text: "☆only had tours this last week where the guests laughed at everything, and they all also sat on the crates like we told them (ifykyk.) felt rejuinvated ☺️" },
+      { type: "p", text: "☆ Had beach volleyball morning as a battalion! We got to play volleyball together and then we were able to touch the ocean up to our knees😱. As part of beach volleyball day we all wear these matching Mormon Battalion shirts, and the next day I was able to give a tour to a family who had seen us all wear our shirts and googled the Mormon battalion because of it! He said \"I saw what looked like 100 girls wearing the same shirt so I had to look up what was on the shirt.\"" },
+      { type: "p", text: "☆got bangs! Had to spice life up somehow, and everybody at the battalion loves them! Except for the senior couples who didn't notice and one Hermana who keeps saying \"sister no, no more.\" But y'know we win some we lose some." },
+      { type: "p", text: "☆ helped President move some things in his office and he offered me a drink from his bev fridge. He told us he doesn't share his diet coke and ginger ale with just anybody, so I felt pretty special." },
+      { type: "p", text: "☆ fire alarm went off and Thompson and I genuinely took nothing outside. Realized my survival instincts are at 0 rn. I'll remember my lax stick and the Book of Mormon next time - only the essentials. 🙏" },
+      { type: "p", text: "Courthouse🏫" },
+      { type: "p", text: "Courthouse deserves its own special shoutout." },
+      { type: "p", text: "The courthouse is a replica courthouse that the members of the Mormon helped build when they got to San Diego, so it's basically apart of the battalion and going to it is one of our service options." },
+      { type: "p", text: "Usually people get assigned courthouse 2-3 times a transfer. I think Thompson and I have done it 6 times now. And that doesn't include how often we go down to open or close during shift. A few highlights of my time there this transfer:" },
+      { type: "p", text: "- One man we met while closing the courthouse talked about the grain and bread that must be inside the treasure chest under a display case. I was genuinely surprised there was no break in that night. He also tried to talk to us about the haunted house down the street, and began to tell us a personal ghost story but I cut him off before he could say something sus 😬" },
+      { type: "p", text: "- one guy ran through the courthouse with a scooter over his shoulder, and a JBL speaker on both arms blast music. He ran through and said \"you used to be able to smoke inside here and now you can't!\" Before running outside again." },
+      { type: "p", text: "Spiritual thought🔆🔅" },
+      { type: "p", text: "I've been thinking a lot about how God is a god of promises, but it is interesting the things He has promised. Sometimes it is easy to feel like God has abandoned you or has let you experience hardships because He does not care, but He never promised no struggles; He promised to walk with you in your struggles." },
+      { type: "p", text: "And He WILL walk with you. In the Book of Mormon it constantly says \"the God of Abraham, the God of Issac, the God of Moses,\" basically saying look at all the times God has walked with His people! He has already proven He keeps His promises." },
+      { type: "p", text: "I invite you to study what God has promised you; whether in the scriptures, in personal prayers, or through church services. Because God keeps His promises." },
+      { type: "p", text: "Thanks for indulging my yap fest🥹" },
+      { type: "p", text: "Send me an email, and if you're a missionary put me on your list if I'm not already!" },
+      { type: "p", text: "♡ Sister Malley" },
+      { type: "p", text: "(Google photos if you want visuals or see some sidequests)" }
+    ],
+    spiritualThought: {
+      title: "God keeps His promises",
+      intro: "I've been thinking a lot about how God is a god of promises, but it is interesting the things He has promised.",
+      scriptureRef: "",
+      scripture: "Sometimes it is easy to feel like God has abandoned you or has let you experience hardships because He does not care, but He never promised no struggles; He promised to walk with you in your struggles.\n\nAnd He WILL walk with you. In the Book of Mormon it constantly says \"the God of Abraham, the God of Issac, the God of Moses,\" basically saying look at all the times God has walked with His people! He has already proven He keeps His promises.\n\nI invite you to study what God has promised you; whether in the scriptures, in personal prayers, or through church services. Because God keeps His promises."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-08-03-working-9-5",
     title: "Working 9-5",
     date: "2026-08-03",

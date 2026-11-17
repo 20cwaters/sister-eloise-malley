@@ -106,7 +106,7 @@ window.MISSION = {
       end: null,
       lat: 32.7542,
       lng: -117.1940,
-      companion: "Sister Gunnel",
+      companion: "Sister Gunnell",
       note: "",
       current: true
     }

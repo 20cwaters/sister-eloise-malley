@@ -5,6 +5,44 @@
 
 window.LETTERS = [
   {
+    id: "2026-09-16-fat-and-happy",
+    title: "Fat and Happy",
+    date: "2026-09-16",
+    location: "Mormon Battalion Historic Site",
+    week: 12,
+    albumUrl: "https://photos.app.goo.gl/UwjqVNY3tZJqQmem7",
+    body: [
+      { type: "p", text: "Welcome back to the show." },
+      { type: "p", text: "Shoutout to Elder Malley (twin) for reaching a year on the mission!" },
+      { type: "p", text: "And congrats to Bennett for making lacrosse captain for the BYU men's team! Proud of you both!" },
+      { type: "p", text: "It's finally cooled down here and I can already feel myself turning into a Californian and being cold in 70 degrees. I'm finally understanding why Elise was so cold in our dorm (stay safe out there in Boston 🤧)" },
+      { type: "p", text: "Companion👯" },
+      { type: "p", text: "Sis. Gunnell actually did not know my name! But besides one or two slip ups (the first week she asked me \"who's Sister Malley?)" },
+      { type: "p", text: "We're doing a lot better. Our only problem is neither of us remember anything. It's like two Dory's swimming without a Marlin. The other day Sis. Gunnell's daily goal was \"remember to send a letter\", but I abbreviated it to be \"rem.\" That night we were confused about what the abbreviation even stood for, and after we figured that out, we couldn't remember what she was supposed to remember. #justkeepswimming" },
+      { type: "p", text: "Sis. Gunnell also loves to bake, it's like living in an episode of The Great British Bake off and she's a contestant (so I guess I'm Paul Hollywood?) It's actually a dream of mine to be a guest judge on the show so it's been awesome, and Sis. Gunnell always saves me a spoonful of batter🥹🤞" },
+      { type: "p", text: "Tidbits🗣️🗣️" },
+      { type: "p", text: "☆ So grateful for the gym lately. I've been making so many gains Donny would be proud of me (shoutout BYU wlax for starting their fall season!)" },
+      { type: "p", text: "☆I've been a bev monster. A pack of Frescas gets scared when I get close." },
+      { type: "p", text: "☆ Today is Mexican Independence Day, but Old Town (where the Battalion is,) had a fiesta to celebrate. I got to work at a booth that was doing Lotería, which is basically Mexican bingo. After we helped put it all away, and I truly felt like a pioneer. I do not recommend doing manual labor in a pioneer dress.🤒" },
+      { type: "p", text: "☆ Sister Gunnell also makes dumplings! She brought her own steamer from home, and I got to put my own dumplings together." },
+      { type: "p", text: "☆We had a Battalion talent show! I sang with Sister Lewis, and also accidentally volunteered to speed-make a PB&J, except my arms had to be Sis. Gunnell, and I was the eyes. We won though obvi #dubafterdub 👑" },
+      { type: "p", text: "☆ I did embroidery for one of the senior sisters, and she took Gunnell and me out to the Cheesecake Factory because of it! We both got to get our own cheesecakes and everything #livingthedream 🍽️" },
+      { type: "p", text: "Spiritual:" },
+      { type: "p", text: "My mom sent me the book \"Jesus the Christ,\" and one thing that has stuck out to me from my readings so far is that \"Jesus Christ LITERALLY gave up his life for us.\" Jesus Christ was an immortal being who did not have to die, but he chose to die to fulfill the Plan of Salvation. So when people say \"Jesus would've died just for you,\" it makes it 1000x more meaningful. From a talk called \"Because of Christ\" by Elder Renlund, he says, \"If everyone, then anyone. If anyone, then even one. And if even one, then even you.\"" },
+      { type: "p", text: "I love you all! Keep me in the loop. I love getting emails or screen-recorded reels." },
+      { type: "p", text: "Enjoy fall for me; I'm missing my favorite season!" },
+      { type: "p", text: "♡ Sister Malley" }
+    ],
+    spiritualThought: {
+      title: "If even one, then even you",
+      intro: "My mom sent me the book \"Jesus the Christ,\" and one thing that has stuck out to me from my readings so far is that \"Jesus Christ LITERALLY gave up his life for us.\"",
+      scriptureRef: "",
+      scripture: "Jesus Christ was an immortal being who did not have to die, but he chose to die to fulfill the Plan of Salvation. So when people say \"Jesus would've died just for you,\" it makes it 1000x more meaningful. From a talk called \"Because of Christ\" by Elder Renlund, he says, \"If everyone, then anyone. If anyone, then even one. And if even one, then even you.\""
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-08-24-grain-and-bread",
     title: "Grain and Bread",
     date: "2026-08-24",

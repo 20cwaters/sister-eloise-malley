@@ -5,6 +5,44 @@
 
 window.LETTERS = [
   {
+    id: "2026-11-11-the-good-things",
+    title: "The good things",
+    date: "2026-11-11",
+    location: "Mormon Battalion Historic Site",
+    week: 20,
+    albumUrl: "https://photos.app.goo.gl/UwjqVNY3tZJqQmem7",
+    body: [
+      { type: "p", text: "Heyyy hope I gave enough time between last email and this one so you could really miss me 🙏💗" },
+      { type: "p", text: "Transfer news🧘‍♀️" },
+      { type: "p", text: "Im training! Im also moving back to my first district/apt so I'm back to Monday pday! Excited for my daughter to come next week 🤞🥹" },
+      { type: "p", text: "Huge shoutout to my current apartment and district. It's been so fun and I love all of the girls. Honorable mention to the balcony and the tweakers at the train station outside our balcony!" },
+      { type: "p", text: "TIDBITS🗣🗣" },
+      { type: "p", text: "☆we got to help serve in Old Town for Dia De Los Murtos. Even though it wasn't too busy, it was fun to be out there and help show people how to make Papel Picado's and marigold flowers from tissue paper. I'm going back to my crafting roots watching youtube videos for american girl doll crafts 🧘‍♀️" },
+      { type: "p", text: "☆MY FAMILY CAME!! We had the day together; obvi gave them a tour, then worked them like dogs by going to Coronado, walking around Old Town, then to La Jolla (for Taco Stand duh.) Peak day👌" },
+      { type: "p", text: "☆I also got to sing that Sunday and my family came as well! I sang with Sis. Ramos and we sang \"A Prayer,\" which is a medley of A Child's Prayer and Joseph Smith's First Prayer. I put a video of the version we sang that night for zone in my google photos." },
+      { type: "p", text: "☆we went to zone conference for the San Diego mission. Even though we have our own zone at the battalion, it's different from a proselyting zone. Usually the San Diego missionaries are usually the ops (they call us fake missionaries)(they're jealous how chill our mission is but we still hand out hecka book of Mormons) but zone was actually lit! They encouraged us to extend a baptismal invitation every lesson so I'm just gonna keep that in my back pocket for now" },
+      { type: "p", text: "☆ another visit! Nana, Corky, and Chanel came! Aka grandma, grandpa, and aunt (emotionally.) We went to lunch and dinner, and they were kind enough to get us groceries at heavenly Trader Jo's. Thanks guys, love and miss you!" },
+      { type: "p", text: "☆we got to go on a field trip all day to see and walk where the battalion did. Feeling extra grateful to be honorary battalion member and not a real one because I just don't think I'm built to wak 2,000 miles in the desert. But feeling a lot of awe at the things they accomplished. Hold your water bottles a little tighter this week because the battalions biggest struggle was lack of water; and many men fainted and were left behind on the trail because they were so dehydrated. #lovemyyetiwaterbottle" },
+      { type: "p", text: "Spiritual🌟" },
+      { type: "p", text: "I've been reading in the bible, specifically end of Genesis and beginning of Exodus, and Ezekiel; and one thing I've learned is that good things take time." },
+      { type: "p", text: "Joseph (of the technicolor dreamcoat) was in prison for 13 years until he was given a position by Pharoh." },
+      { type: "p", text: "The children of Israel had to wait yeaaarrrs so be delivered by Moses. They basically had to wait for him to grow up." },
+      { type: "p", text: "Ezekiel did not have a strong communication with God until 5 years after being taken captive." },
+      { type: "p", text: "All of these stories speed up the waiting and highlight the good part, but when those things are not highlighted it's easy to forget how much the waiting is part of the story. All the waiting js prep to make these people ready for the good things." },
+      { type: "p", text: "So if you're waiting for the good things, just know they're coming. I promise." },
+      { type: "p", text: "Love you all! Let me know what you have all been up to! I don't always respond but I do read the emails I swear✋️" },
+      { type: "p", text: "♡ sister malley" }
+    ],
+    spiritualThought: {
+      title: "Good things take time",
+      intro: "I've been reading in the bible, specifically end of Genesis and beginning of Exodus, and Ezekiel; and one thing I've learned is that good things take time.",
+      scriptureRef: "",
+      scripture: "All of these stories speed up the waiting and highlight the good part, but when those things are not highlighted it's easy to forget how much the waiting is part of the story. All the waiting js prep to make these people ready for the good things.\n\nSo if you're waiting for the good things, just know they're coming. I promise."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-10-07-call-me-an-elder",
     title: "Call me an elder",
     date: "2026-10-07",

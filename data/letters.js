@@ -5,6 +5,40 @@
 
 window.LETTERS = [
   {
+    id: "2026-08-03-working-9-5",
+    title: "Working 9-5",
+    date: "2026-08-03",
+    location: "Mormon Battalion Historic Site",
+    week: 5,
+    albumUrl: "https://photos.app.goo.gl/UwjqVNY3tZJqQmem7",
+    body: [
+      { type: "p", text: "Another week in the books 🌅🤩🌊🙄💗🆘️" },
+      { type: "p", text: "Being at the Mormon Battalion is so fun! Between the kids that don't stop talking during the tours and the rms (return missionaries) who tell me this isn't a real mission, it has been fire." },
+      { type: "p", text: "But in all seriousness I am live laugh loving life right now. Sister Thompson is so much fun and we spend most of our time laughing and feeling the spirit, so some would say peak?" },
+      { type: "p", text: "Giving the tours has been so awesome, I am living my dream of being a tour guide (a real dream of mine. Shoutout Jared and the biking vikings in Denmark.) I was able to get my solo last week (memorize both parts), and it has made tours so fun because I feel like I can actually concentrate on what the message is vs the words." },
+      { type: "p", text: "Highlights🗣🗣" },
+      { type: "p", text: "☆ went on a trolley tour around San Diego and got a sick tanline on only one arm!" },
+      { type: "p", text: "☆ got to see Elise (and Michelle; thank you for lunch!) before she goes to the CCM and goes out to Boston! Love you Hermana Cardall🫡❤️" },
+      { type: "p", text: "☆ This super nice couple Troy & Jackie bought our froyo! King troy 👑" },
+      { type: "p", text: "☆ After a crash out on day one about not knowing how to cook (because Mama Malley is goated at it-why would I cook?) I have finally started to master the art of chicken for breakfast, lunch, and dinner. Hit me up with recipes! (Nothing more than like 5 ingredients)" },
+      { type: "p", text: "☆ Because I have my solo, Sister Thompson and I have been able to make the tours more fun and ad-lib more, in the first room especially. Lets just say I got everybody looking left right and center for the characters. I got the senior sister on shift to laugh as well; that's how you know it's good." },
+      { type: "p", text: "☆ I got to chat a lot with these two Hermanas from Columbia and Dominican Republic and get to know them better! They're both so fun and they are so wise. I also got to teach them what niche means" },
+      { type: "p", text: "☆ I got to do a spanish tour! And by do a spanish tour I mean I got to stand there while Hermana Zea gave the tour. The reason we were paired together was because of toss it up Tuesday, where you get a different companion for shift. I did say: \"Soldados, estan bien?\" So I'll be getting my spanish solo any day now." },
+      { type: "p", text: "This week I have learned that God hears your prayers! I was reading in Enos in the Book of Mormon this week, and his story is about praying and receiving answers because of his faith. So this week I was thinking, I have faith and I wanted to switch up my prayers for tours, because just praying for the spirit and for the people in the tour to learn something is awesome, but repetative. So Friday I prayed for joyful tours. And they were some of the funnest tours. Thompson and I could not stop laughing. We had an older man named Steve dress up as our soldier and he made the whole tour 1000x better. Moral of the story is God hears you and wants to answer you! So pray." },
+      { type: "p", text: "Love you all, feel free to drop an email, I love hearing from everybody!" },
+      { type: "p", text: "♡ Sister Malley" },
+      { type: "p", text: "Ps my pday will be Friday next week so if I dont respond forever that is why😵" }
+    ],
+    spiritualThought: {
+      title: "God hears you and wants to answer you",
+      intro: "This week I have learned that God hears your prayers!",
+      scriptureRef: "",
+      scripture: "I was reading in Enos in the Book of Mormon this week, and his story is about praying and receiving answers because of his faith. So this week I was thinking, I have faith and I wanted to switch up my prayers for tours, because just praying for the spirit and for the people in the tour to learn something is awesome, but repetative. So Friday I prayed for joyful tours. And they were some of the funnest tours. Thompson and I could not stop laughing. We had an older man named Steve dress up as our soldier and he made the whole tour 1000x better. Moral of the story is God hears you and wants to answer you! So pray."
+    },
+    tagalog: [],
+    photos: []
+  },
+  {
     id: "2026-07-07-make-it-about-jesus",
     title: "Make it about Jesus",
     date: "2026-07-07",

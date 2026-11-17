@@ -90,11 +90,23 @@ window.MISSION = {
       region: "Provo, Utah, USA",
       type: "mtc",
       start: "2026-07-01",
-      end: null,
+      end: "2026-08-03",
       lat: 40.259166,
       lng: -111.645602,
       zoom: 17,                              // optional: overrides maps.defaultZoom for this area
       companion: "Sister Zwygart",
+      note: "",
+      current: false
+    },
+    {
+      name: "Mormon Battalion Historic Site",
+      region: "San Diego, California",
+      type: "area",
+      start: "2026-08-03",
+      end: null,
+      lat: 32.7542,
+      lng: -117.1940,
+      companion: "Sister Thompson",
       note: "",
       current: true
     }
